@@ -32,7 +32,7 @@ The script will run until it dies, or you kill it with Control-C.
 Dependencies
 ------------
 
-You may need to install the _libgravatar_ Python package:
+You may need to install the [_libgravatar_](https://libgravatar.readthedocs.org/en/latest/) Python package:
 
         pip install libgravatar
 
