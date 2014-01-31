@@ -20,6 +20,16 @@ or
 The script will run until it dies, or you kill it with Control-C.
 
 
+Dependencies
+------------
+
+You may need to install the _libgravatar_ Python package:
+
+        pip install libgravatar
+
+[Read this](http://dabapps.com/blog/introduction-to-pip-and-virtualenv-python/) for more info on installing packages.
+
+
 Why?
 ----
 
