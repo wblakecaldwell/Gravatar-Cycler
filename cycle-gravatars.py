@@ -10,6 +10,8 @@
 #
 #   for help:
 #       cycle-gravatars.py -h
+#   or
+#       cycle-gravatars.py --help
 #
 __author__ = 'Blake Caldwell http://blakecaldwell.net'
 
