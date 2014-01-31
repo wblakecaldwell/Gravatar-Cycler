@@ -42,7 +42,7 @@ You may need to install the [_libgravatar_](https://libgravatar.readthedocs.org/
 Why?
 ----
 
-The chat board at my work uses [Gravatar.com](http://gravatar.com) for our profile images. I wrote this to have some fun with it. Every few minutes, I have my profile image choose between four images that I already uploaded to Gravatar.com - different rotations of my avatar.
+The chat board at my work uses [Gravatar.com](http://gravatar.com) for our profile images. I wrote this to have some fun with it. Every few minutes, I have my profile set to one of four images that I already uploaded to Gravatar.com - different rotations of my avatar.
 
 This doesn't solve any of the world's problems - it just allows you to have some random fun.
 
