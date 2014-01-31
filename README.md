@@ -7,11 +7,20 @@ Cycle through your different Gravatar.com images, changing your default avatar o
 Usage
 -----
 
-    cycle-gravatars.py -e <emailaddress> -p <password> -d <delayinseconds>
+    cycle-gravatars.py -e "<emailaddress>" -p "<password>" -d <delayinseconds>
     
 or
 
-    cycle-gravatars.py --email=<emailaddress> -password=<password> -delay=<delayinseconds>
+    cycle-gravatars.py --email="<emailaddress>" -password="<password>" -delay=<delayinseconds>
+
+for help:
+
+    cycle-gravatars.py -h
+
+or
+
+    cycle-gravatars.py --help
+    
 
 &lt;emailaddress&gt; and &lt;password&gt; are your [Gravatar.com](http://gravatar.com) login and password, and are required.
 
