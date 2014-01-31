@@ -13,6 +13,15 @@ or
 
     cycle-gravatars.py --email="<emailaddress>" -password="<password>" -delay=<delayinseconds>
 
+for help:
+
+    cycle-gravatars.py -h
+
+or
+
+    cycle-gravatars.py --help
+    
+
 &lt;emailaddress&gt; and &lt;password&gt; are your [Gravatar.com](http://gravatar.com) login and password, and are required.
 
 &lt;delayinseconds&gt; is optional, defaulting to 300 (5 minutes).
